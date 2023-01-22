@@ -21,3 +21,10 @@ Add code to test your function, pass it the parameters below and log the result 
 Year 2007 ID 67352, Year 2011 ID 87964
 
 Send us only the code of your final solution. Keep the project, you might be asked to screenshare and run it in a future interview.
+
+# Setup
+1. `pip install --user pipenv`
+2. `cd team-international-python/`
+3. `pipenv shell`
+4. `python -m src.main` To run the project
+5. `python -m unittest tests/test.py` To run the tests
